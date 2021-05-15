@@ -2,7 +2,7 @@
 
 #### part of John Smilga's CSS tutorial
 
-- responsive design
+- responsive design. Take a look at the project: https://sweta-css-flexbox-project-tour-company.netlify.app
 - navbar with toggle button for smaller screen; horizontal navbar with logo, links and social media icons using flexbox for larger screen
 - hero section with heading, paragraph and call to action button. Items placed in the center with flexbox
 - about section with image and text; one column layout for small screen, two columns for bigger screen. Border background effect for the image.
